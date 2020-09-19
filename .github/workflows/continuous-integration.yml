@@ -35,4 +35,4 @@ jobs:
           script: |
               rm -rf squiz
               git clone https://github.com/jodiefostersarmy/squiz.git
-              pip3 install -r squiz/requirements/txt
+              pip3 install -r squiz/requirements.txt
